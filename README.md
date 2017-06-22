@@ -1,2 +1,4 @@
 # hello-world
-Just another repository 
+Hi@
+
+Giakuza here, getting started with github as of June 22, 2017.
